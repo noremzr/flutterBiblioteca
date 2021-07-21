@@ -1,0 +1,11 @@
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_extension_dll\bin\Debug\biblioteca_api_extension_dll.dll
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_extension_dll\bin\Debug\biblioteca_api_extension_dll.pdb
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_extension_dll\bin\Debug\Dapper.dll
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_extension_dll\bin\Debug\Dapper.xml
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_extension_dll\obj\Debug\biblioteca_api_extension_dll.csproj.CoreCompileInputs.cache
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_extension_dll\obj\Debug\biblioteca_api_extension_dll.csproj.CopyComplete
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_extension_dll\obj\Debug\biblioteca_api_extension_dll.dll
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_extension_dll\obj\Debug\biblioteca_api_extension_dll.pdb
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_extension_dll\obj\Debug\biblioteca_api_extension_dll.csproj.AssemblyReference.cache
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_extension_dll\bin\Debug\Newtonsoft.Json.dll
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_extension_dll\bin\Debug\Newtonsoft.Json.xml

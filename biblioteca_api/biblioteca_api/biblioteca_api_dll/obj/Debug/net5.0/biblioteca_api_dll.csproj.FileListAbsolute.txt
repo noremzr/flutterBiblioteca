@@ -1,0 +1,11 @@
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_dll\bin\Debug\net5.0\biblioteca_api_dll.deps.json
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_dll\bin\Debug\net5.0\biblioteca_api_dll.dll
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_dll\bin\Debug\net5.0\ref\biblioteca_api_dll.dll
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_dll\bin\Debug\net5.0\biblioteca_api_dll.pdb
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_dll\obj\Debug\net5.0\biblioteca_api_dll.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_dll\obj\Debug\net5.0\biblioteca_api_dll.AssemblyInfoInputs.cache
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_dll\obj\Debug\net5.0\biblioteca_api_dll.AssemblyInfo.cs
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_dll\obj\Debug\net5.0\biblioteca_api_dll.csproj.CoreCompileInputs.cache
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_dll\obj\Debug\net5.0\biblioteca_api_dll.dll
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_dll\obj\Debug\net5.0\ref\biblioteca_api_dll.dll
+E:\Projetos\biblioteca\biblioteca_api\biblioteca_api\biblioteca_api_dll\obj\Debug\net5.0\biblioteca_api_dll.pdb
